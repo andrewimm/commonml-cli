@@ -1,6 +1,6 @@
 A lazy man's lazy tool. `cml` provides a couple of handy aliases to run CommonML commands from anywhere in your project tree.
 
-** Installation **
+### Installation
 
 ```
 npm install -g commonml-cli
@@ -8,7 +8,7 @@ npm install -g commonml-cli
 
 This installs the `cml` command line tool, which gives you a couple handy commands to save time. More are planned, as more tedious tasks present themselves.
 
-** Usage **
+### Usage
 
 From anywhere in your CommonML project, use any of the following actions:
 
