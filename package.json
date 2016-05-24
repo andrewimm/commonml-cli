@@ -1,0 +1,8 @@
+{
+  "name": "commonml-cli",
+  "version": "1.0.0",
+  "description": "A simple CLI for CommonML projects",
+  "bin": {
+    "cml": "bin/cml.js"
+  }
+}
